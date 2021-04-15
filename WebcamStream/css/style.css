@@ -1,0 +1,17 @@
+textarea{
+    margin-top: 1%;
+    width: 100%;
+    height: 200px;
+}
+.txtasend
+{
+    margin-top: 3%;
+    height: 50px;
+}
+#localvideo, #remotevideo{
+    margin: 5px;
+}
+video{
+    width: 150;
+    height: 100;
+}
