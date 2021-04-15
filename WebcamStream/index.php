@@ -8,11 +8,10 @@
 </head>
 
 <body>
-<h1> Hello </h1>
 <div class="container-fluid">
     <div class="container">
         <div class="row">
-            <video  muted id="localvideo"> </video>
+            <video controls muted id="localvideo"> </video>
             <video controls autoplay id="remotevideo"> </video>
         </div>
         <div class="row">
